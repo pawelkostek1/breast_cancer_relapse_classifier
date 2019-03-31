@@ -1,0 +1,1599 @@
+pathway	gene1 gene2
+FoxO signaling pathway	TGFBR1	SMAD2
+FoxO signaling pathway	SMAD4	SMAD2
+FoxO signaling pathway	C00008	STK11
+FoxO signaling pathway	C00020	STK11
+FoxO signaling pathway	STK11	PRKAG2
+FoxO signaling pathway	STK11	PRKAG2
+FoxO signaling pathway	STK11	FOXO6...
+FoxO signaling pathway	STK11	FOXO6...
+FoxO signaling pathway	TGFB1	TGFBR1
+FoxO signaling pathway	PRKAG2	FOXO6...
+FoxO signaling pathway	PRKAG2	FOXO6...
+FoxO signaling pathway	IGF1	IGF1R
+FoxO signaling pathway	INS	INSR
+FoxO signaling pathway	IGF1R	IRS1
+FoxO signaling pathway	INSR	IRS1
+FoxO signaling pathway	IRS1	PIK3CA
+FoxO signaling pathway	PIK3CA	C05981
+FoxO signaling pathway	C05981	PDPK1
+FoxO signaling pathway	PDPK1	CHUK
+FoxO signaling pathway	PDPK1	CHUK
+FoxO signaling pathway	PDPK1	AKT3
+FoxO signaling pathway	PDPK1	AKT3
+FoxO signaling pathway	PDPK1	C8orf44-SGK3...
+FoxO signaling pathway	PDPK1	C8orf44-SGK3...
+FoxO signaling pathway	AKT3	CHUK
+FoxO signaling pathway	AKT3	CHUK
+FoxO signaling pathway	CHUK	FOXO6...
+FoxO signaling pathway	CHUK	FOXO6...
+FoxO signaling pathway	AKT3	FOXO6...
+FoxO signaling pathway	AKT3	FOXO6...
+FoxO signaling pathway	C8orf44-SGK3...	FOXO6...
+FoxO signaling pathway	C8orf44-SGK3...	FOXO6...
+FoxO signaling pathway	NLK	FOXO6...
+FoxO signaling pathway	NLK	FOXO6...
+FoxO signaling pathway	CDK2	FOXO6...
+FoxO signaling pathway	CDK2	FOXO6...
+FoxO signaling pathway	TPTEP2-CSNK1E	FOXO6...
+FoxO signaling pathway	TPTEP2-CSNK1E	FOXO6...
+FoxO signaling pathway	MAPK14	FOXO6...
+FoxO signaling pathway	MAPK14	FOXO6...
+FoxO signaling pathway	C00025	GRM1
+FoxO signaling pathway	EGF	EGFR
+FoxO signaling pathway	EGFR	GRB2
+FoxO signaling pathway	GRB2	SOS1
+FoxO signaling pathway	SOS1	HRAS
+FoxO signaling pathway	HRAS	ARAF
+FoxO signaling pathway	ARAF	MAP2K1
+FoxO signaling pathway	ARAF	MAP2K1
+FoxO signaling pathway	MAP2K1	MAPK1
+FoxO signaling pathway	MAP2K1	MAPK1
+FoxO signaling pathway	MAPK8	FOXO6...
+FoxO signaling pathway	MAPK8	FOXO6...
+FoxO signaling pathway	STK4	FOXO6...
+FoxO signaling pathway	STK4	FOXO6...
+FoxO signaling pathway	CHUK	PTEN
+FoxO signaling pathway	PTEN	C05981
+FoxO signaling pathway	PTEN	C05981
+FoxO signaling pathway	FOXO6...	CCNB3...
+FoxO signaling pathway	FOXO6...	CCND1
+FoxO signaling pathway	FOXO6...	CCNG2
+FoxO signaling pathway	FOXO6...	CDKN2B
+FoxO signaling pathway	FOXO6...	CDKN2D
+FoxO signaling pathway	FOXO6...	CDKN1A
+FoxO signaling pathway	FOXO6...	CDKN1B
+FoxO signaling pathway	FOXO6...	RBL2
+FoxO signaling pathway	FOXO6...	PLK4
+FoxO signaling pathway	FOXO6...	GADD45G
+FoxO signaling pathway	FOXO6...	FASLG
+FoxO signaling pathway	FOXO6...	BCL2L11
+FoxO signaling pathway	FOXO6...	TNFSF10
+FoxO signaling pathway	FOXO6...	BCL6
+FoxO signaling pathway	FOXO6...	BNIP3
+FoxO signaling pathway	FOXO6...	ATG12
+FoxO signaling pathway	FOXO6...	GABARAP
+FoxO signaling pathway	FOXO6...	CAT
+FoxO signaling pathway	FOXO6...	SOD2
+FoxO signaling pathway	FOXO6...	GADD45G
+FoxO signaling pathway	FOXO6...	ATM
+FoxO signaling pathway	FOXO6...	PCK1
+FoxO signaling pathway	FOXO6...	G6PC
+FoxO signaling pathway	FOXO6...	BCL6
+FoxO signaling pathway	FOXO6...	IL7R
+FoxO signaling pathway	FOXO6...	KLF2
+FoxO signaling pathway	FOXO6...	S1PR1
+FoxO signaling pathway	FOXO6...	RAG1
+FoxO signaling pathway	FOXO6...	FBXO32
+FoxO signaling pathway	IL6	STAT3
+FoxO signaling pathway	IL6	STAT3
+FoxO signaling pathway	IL10	STAT3
+FoxO signaling pathway	IL10	STAT3
+FoxO signaling pathway	STAT3	FOXO6...
+FoxO signaling pathway	PRMT1	FOXO6...
+FoxO signaling pathway	PRMT1	FOXO6...
+FoxO signaling pathway	SETD7	FOXO6...
+FoxO signaling pathway	SETD7	FOXO6...
+FoxO signaling pathway	GRM1	HOMER3
+FoxO signaling pathway	GRM1	AGAP2
+FoxO signaling pathway	HOMER3	PIK3CA
+FoxO signaling pathway	HOMER3	PIK3CA
+FoxO signaling pathway	AGAP2	PIK3CA
+FoxO signaling pathway	AGAP2	PIK3CA
+FoxO signaling pathway	MAPK1	FOXO6...
+FoxO signaling pathway	MAPK1	FOXO6...
+FoxO signaling pathway	USP7	FOXO6...
+Cell cycle	GSK3B	CCND1
+Cell cycle	GSK3B	CCND1
+Cell cycle	TP53	CDKN1A
+Cell cycle	TP53	GADD45G
+Cell cycle	TP53	SFN
+Cell cycle	GADD45G	PCNA
+Cell cycle	MDM2	RB1
+Cell cycle	MDM2	TP53
+Cell cycle	CREBBP	TP53
+Cell cycle	PRKDC	TP53
+Cell cycle	PRKDC	TP53
+Cell cycle	CHEK1	TP53
+Cell cycle	CHEK1	TP53
+Cell cycle	CHEK1	CDC25A
+Cell cycle	CHEK1	CDC25A
+Cell cycle	CDC25A	CDK4
+Cell cycle	CDC25A	CDK4
+Cell cycle	CDC25A	CDK2
+Cell cycle	CDC25A	CDK2
+Cell cycle	CDC25A	CDK2
+Cell cycle	CDC25A	CDK2
+Cell cycle	CDC25A	CDK1
+Cell cycle	CDC25A	CDK1
+Cell cycle	CHEK1	CDC25B...
+Cell cycle	CHEK1	CDC25B...
+Cell cycle	PTTG2...	ESPL1
+Cell cycle	YWHAQ	CDC25B...
+Cell cycle	WEE2	CDK1
+Cell cycle	WEE2	CDK1
+Cell cycle	PKMYT1	CDK1
+Cell cycle	PKMYT1	CDK1
+Cell cycle	WEE2	CDK1
+Cell cycle	WEE2	CDK1
+Cell cycle	PKMYT1	CDK1
+Cell cycle	PKMYT1	CDK1
+Cell cycle	PLK1	CDC25B...
+Cell cycle	PLK1	CDC25B...
+Cell cycle	PLK1	PKMYT1
+Cell cycle	PLK1	PKMYT1
+Cell cycle	CDC25B...	CDK1
+Cell cycle	CDC25B...	CDK1
+Cell cycle	SFN	CCNB3...
+Cell cycle	GADD45G	CCNB3...
+Cell cycle	CDKN2A	MDM2
+Cell cycle	ATM	TP53
+Cell cycle	ATM	TP53
+Cell cycle	ATM	CHEK1
+Cell cycle	ATM	CHEK1
+Cell cycle	TTK	MAD1L1
+Cell cycle	TTK	MAD1L1
+Cell cycle	MAD1L1	MAD2L2
+Cell cycle	BUB1	BUB3
+Cell cycle	MYC	ZBTB17
+Cell cycle	ZBTB17	CDKN2B
+Cell cycle	TGFB1	SMAD2
+Cell cycle	TGFB1	SMAD2
+Cell cycle	ABL1	RB1
+Cell cycle	HDAC1	RB1
+Oocyte meiosis	MOS	MAP2K1
+Oocyte meiosis	MOS	MAP2K1
+Oocyte meiosis	MAP2K1	MAPK1
+Oocyte meiosis	MAP2K1	MAPK1
+Oocyte meiosis	MAPK1	RPS6KA6
+Oocyte meiosis	MAPK1	RPS6KA6
+Oocyte meiosis	RPS6KA6	BUB1
+Oocyte meiosis	RPS6KA6	BUB1
+Oocyte meiosis	RPS6KA6	PKMYT1
+Oocyte meiosis	RPS6KA6	PKMYT1
+Oocyte meiosis	PKMYT1	CDK1
+Oocyte meiosis	PKMYT1	CDK1
+Oocyte meiosis	BUB1	MAD2L2
+Oocyte meiosis	INS	IGF1R
+Oocyte meiosis	IGF1	IGF1R
+Oocyte meiosis	ADCY1	PRKACA
+Oocyte meiosis	PGR	PRKACA
+Oocyte meiosis	AR	PRKACA
+Oocyte meiosis	IGF1R	PRKACA
+Oocyte meiosis	AURKA	CPEB2
+Oocyte meiosis	AURKA	CPEB2
+Oocyte meiosis	AURKA	CPEB2
+Oocyte meiosis	AURKA	CPEB2
+Oocyte meiosis	PLK1	CPEB2
+Oocyte meiosis	PLK1	CPEB2
+Oocyte meiosis	CDK2	CDC25C
+Oocyte meiosis	CDK2	CDC25C
+Oocyte meiosis	MAPK12	CDC25C
+Oocyte meiosis	MAPK12	CDC25C
+Oocyte meiosis	PPP1CA	CDC25C
+Oocyte meiosis	PPP1CA	CDC25C
+Oocyte meiosis	PLK1	CDC25C
+Oocyte meiosis	PLK1	CDC25C
+Oocyte meiosis	SLK	PLK1
+Oocyte meiosis	SLK	PLK1
+Oocyte meiosis	PRKACA	CDC25C
+Oocyte meiosis	PRKACA	CDC25C
+Oocyte meiosis	FBXO5	CDC20
+Oocyte meiosis	PTTG2...	ESPL1
+Oocyte meiosis	ESPL1	REC8
+Oocyte meiosis	FBXO43	CDC20
+Oocyte meiosis	MAD2L2	ANAPC10
+Oocyte meiosis	MAD2L2	ANAPC10
+Oocyte meiosis	PLCZ1	ITPR1
+Oocyte meiosis	ITPR1	CALML6
+Oocyte meiosis	CALML6	PPP3CA
+Oocyte meiosis	CALML6	CAMK2A
+Oocyte meiosis	PPP2CA	FBXO43
+Oocyte meiosis	PPP2CA	FBXO43
+Oocyte meiosis	CAMK2A	FBXO43
+Oocyte meiosis	CAMK2A	FBXO43
+Oocyte meiosis	PLK1	FBXO43
+Oocyte meiosis	PLK1	FBXO43
+Oocyte meiosis	CAMK2A	CDC25C
+Oocyte meiosis	CAMK2A	CDC25C
+Oocyte meiosis	FBXO43	CDC20
+Oocyte meiosis	BUB1	SGO1
+Oocyte meiosis	PTTG2...	ESPL1
+Oocyte meiosis	ESPL1	REC8
+Oocyte meiosis	YWHAQ	CDC25C
+Oocyte meiosis	CDC25C	CDK1
+Oocyte meiosis	CDC25C	CDK1
+Oocyte meiosis	MOS	PKMYT1
+Oocyte meiosis	MOS	PKMYT1
+p53 signaling pathway	ATM	CHEK2
+p53 signaling pathway	ATM	CHEK2
+p53 signaling pathway	ATR	CHEK1
+p53 signaling pathway	ATR	CHEK1
+p53 signaling pathway	ATR	TP53
+p53 signaling pathway	ATR	TP53
+p53 signaling pathway	CHEK1	TP53
+p53 signaling pathway	CHEK1	TP53
+p53 signaling pathway	CHEK2	TP53
+p53 signaling pathway	CHEK2	TP53
+p53 signaling pathway	ATM	TP53
+p53 signaling pathway	ATM	TP53
+p53 signaling pathway	CDKN2A	MDM2
+p53 signaling pathway	MDM4	MDM2
+p53 signaling pathway	TP53	MDM2
+p53 signaling pathway	MDM4	TP53
+p53 signaling pathway	IGFBP3	IGF1
+p53 signaling pathway	TP53	CDKN1A
+p53 signaling pathway	TP53	SFN
+p53 signaling pathway	TP53	RPRM
+p53 signaling pathway	TP53	GADD45G
+p53 signaling pathway	TP53	GTSE1
+p53 signaling pathway	TP53	FAS
+p53 signaling pathway	TP53	PIDD1
+p53 signaling pathway	TP53	TNFRSF10B
+p53 signaling pathway	TP53	BAX
+p53 signaling pathway	TP53	PMAIP1
+p53 signaling pathway	BBC3	TP53
+p53 signaling pathway	BBC3	TP53AIP1
+p53 signaling pathway	TP53	EI24
+p53 signaling pathway	TP53	SHISA5
+p53 signaling pathway	TP53	PERP
+p53 signaling pathway	TP53	ZMAT3
+p53 signaling pathway	TP53	SIAH1
+p53 signaling pathway	TP53	IGFBP3
+p53 signaling pathway	TP53	SERPINE1
+p53 signaling pathway	TP53	ADGRB1
+p53 signaling pathway	TP53	CD82
+p53 signaling pathway	TP53	THBS1
+p53 signaling pathway	TP53	SERPINB5
+p53 signaling pathway	TP53	DDB2
+p53 signaling pathway	TP53	RRM2B
+p53 signaling pathway	TP53	GADD45G
+p53 signaling pathway	TP53	SESN3
+p53 signaling pathway	TP53	PTEN
+p53 signaling pathway	TP53	TSC2
+p53 signaling pathway	TP53	IGFBP3
+p53 signaling pathway	TP53	STEAP3
+p53 signaling pathway	TP53	MDM2
+p53 signaling pathway	TP53	COP1
+p53 signaling pathway	TP53	RCHY1
+p53 signaling pathway	TP53	CCNG1
+p53 signaling pathway	TP53	SIAH1
+p53 signaling pathway	TP53	PPM1D
+p53 signaling pathway	TP53	TP73
+p53 signaling pathway	BID	CYCS
+p53 signaling pathway	TP53AIP1	CYCS
+p53 signaling pathway	SIAH1	CYCS
+p53 signaling pathway	CYCS	CASP9
+p53 signaling pathway	APAF1	CASP9
+p53 signaling pathway	CASP9	CASP3
+p53 signaling pathway	CASP8	CASP3
+p53 signaling pathway	TNFRSF10B	CASP8
+p53 signaling pathway	TP53	SIVA1
+p53 signaling pathway	TP53	AIFM2
+p53 signaling pathway	SIVA1	BCL2L1
+p53 signaling pathway	SIVA1	BCL2
+p53 signaling pathway	BCL2L1	BAX
+p53 signaling pathway	BCL2	BAX
+PI3K-Akt signaling pathway	CSF1	CSF1R
+PI3K-Akt signaling pathway	CSF1R	GRB2
+PI3K-Akt signaling pathway	GRB2	SOS1
+PI3K-Akt signaling pathway	SOS1	HRAS
+PI3K-Akt signaling pathway	HRAS	RAF1
+PI3K-Akt signaling pathway	RAF1	MAP2K1
+PI3K-Akt signaling pathway	RAF1	MAP2K1
+PI3K-Akt signaling pathway	MAP2K1	MAPK1
+PI3K-Akt signaling pathway	MAP2K1	MAPK1
+PI3K-Akt signaling pathway	MTOR	RPS6KB1
+PI3K-Akt signaling pathway	MTOR	RPS6KB1
+PI3K-Akt signaling pathway	RPS6KB1	EIF4B
+PI3K-Akt signaling pathway	RPS6KB1	EIF4B
+PI3K-Akt signaling pathway	RPS6KB1	RPS6
+PI3K-Akt signaling pathway	RPS6KB1	RPS6
+PI3K-Akt signaling pathway	C00020	PRKAA1
+PI3K-Akt signaling pathway	STK11	PRKAA1
+PI3K-Akt signaling pathway	CSF1R	IRS1
+PI3K-Akt signaling pathway	IRS1	PIK3CA
+PI3K-Akt signaling pathway	HRAS	PIK3CA
+PI3K-Akt signaling pathway	TLR2	RAC1
+PI3K-Akt signaling pathway	RAC1	PIK3CA
+PI3K-Akt signaling pathway	SYK	CD19
+PI3K-Akt signaling pathway	SYK	CD19
+PI3K-Akt signaling pathway	JAK1	PIK3CA
+PI3K-Akt signaling pathway	PTK2	PIK3CA
+PI3K-Akt signaling pathway	PIK3CA	C05981
+PI3K-Akt signaling pathway	C05981	PDPK1
+PI3K-Akt signaling pathway	PDPK1	RPS6KB1
+PI3K-Akt signaling pathway	PDPK1	RPS6KB1
+PI3K-Akt signaling pathway	PDPK1	PRKCA
+PI3K-Akt signaling pathway	PDPK1	PRKCA
+PI3K-Akt signaling pathway	PDPK1	PKN3
+PI3K-Akt signaling pathway	PDPK1	PKN3
+PI3K-Akt signaling pathway	PDPK1	C8orf44-SGK3...
+PI3K-Akt signaling pathway	PDPK1	C8orf44-SGK3...
+PI3K-Akt signaling pathway	PIK3R6	C05981
+PI3K-Akt signaling pathway	C05981	AKT3
+PI3K-Akt signaling pathway	AKT3	NOS3
+PI3K-Akt signaling pathway	AKT3	NOS3
+PI3K-Akt signaling pathway	AKT3	CREB3
+PI3K-Akt signaling pathway	AKT3	CREB3
+PI3K-Akt signaling pathway	AKT3	CHUK
+PI3K-Akt signaling pathway	AKT3	CHUK
+PI3K-Akt signaling pathway	AKT3	MDM2
+PI3K-Akt signaling pathway	AKT3	MDM2
+PI3K-Akt signaling pathway	AKT3	RAF1
+PI3K-Akt signaling pathway	AKT3	RAF1
+PI3K-Akt signaling pathway	AKT3	GSK3B
+PI3K-Akt signaling pathway	AKT3	GSK3B
+PI3K-Akt signaling pathway	AKT3	CDKN1A
+PI3K-Akt signaling pathway	AKT3	CDKN1A
+PI3K-Akt signaling pathway	AKT3	CDKN1B
+PI3K-Akt signaling pathway	AKT3	CDKN1B
+PI3K-Akt signaling pathway	AKT3	FOXO3
+PI3K-Akt signaling pathway	AKT3	FOXO3
+PI3K-Akt signaling pathway	AKT3	BAD
+PI3K-Akt signaling pathway	AKT3	BAD
+PI3K-Akt signaling pathway	AKT3	CASP9
+PI3K-Akt signaling pathway	AKT3	CASP9
+PI3K-Akt signaling pathway	GSK3B	GYS1
+PI3K-Akt signaling pathway	GSK3B	GYS1
+PI3K-Akt signaling pathway	GSK3B	MYC
+PI3K-Akt signaling pathway	GSK3B	MYC
+PI3K-Akt signaling pathway	GSK3B	CCND1
+PI3K-Akt signaling pathway	GSK3B	CCND1
+PI3K-Akt signaling pathway	FOXO3	CDKN1B
+PI3K-Akt signaling pathway	FOXO3	RBL2
+PI3K-Akt signaling pathway	FOXO3	PCK1
+PI3K-Akt signaling pathway	FOXO3	G6PC
+PI3K-Akt signaling pathway	FOXO3	FASLG
+PI3K-Akt signaling pathway	FOXO3	BCL2L11
+PI3K-Akt signaling pathway	CREB3	BCL2
+PI3K-Akt signaling pathway	CREB3	MCL1
+PI3K-Akt signaling pathway	NFKB1	BCL2L1
+PI3K-Akt signaling pathway	NFKB1	MYB
+PI3K-Akt signaling pathway	MDM2	TP53
+PI3K-Akt signaling pathway	YWHAQ	FOXO3
+PI3K-Akt signaling pathway	YWHAQ	BAD
+PI3K-Akt signaling pathway	BAD	BCL2L1
+PI3K-Akt signaling pathway	BAD	BCL2
+PI3K-Akt signaling pathway	EIF4EBP1	EIF4E
+PI3K-Akt signaling pathway	CRTC2	AKT3
+PI3K-Akt signaling pathway	CRTC2	AKT3
+PI3K-Akt signaling pathway	PDPK1	AKT3
+PI3K-Akt signaling pathway	PDPK1	AKT3
+PI3K-Akt signaling pathway	PHLPP2	AKT3
+PI3K-Akt signaling pathway	PHLPP2	AKT3
+PI3K-Akt signaling pathway	PPP2R3B	AKT3
+PI3K-Akt signaling pathway	PPP2R3B	AKT3
+PI3K-Akt signaling pathway	PTEN	C05981
+PI3K-Akt signaling pathway	PTEN	C05981
+PI3K-Akt signaling pathway	THEM4	AKT3
+PI3K-Akt signaling pathway	CHUK	NFKB1
+PI3K-Akt signaling pathway	CHUK	NFKB1
+PI3K-Akt signaling pathway	MTCP1	AKT3
+PI3K-Akt signaling pathway	NR4A1	RXRA
+PI3K-Akt signaling pathway	NR4A1	BCL2
+PI3K-Akt signaling pathway	AKT3	NR4A1
+PI3K-Akt signaling pathway	AKT3	NR4A1
+PI3K-Akt signaling pathway	IGH	SYK
+PI3K-Akt signaling pathway	MAGI1	PTEN
+Cellular senescence	TGFB1	TGFBR1
+Cellular senescence	TGFBR1	SMAD2
+Cellular senescence	RRAS2	PIK3CA
+Cellular senescence	RRAS2	RASSF5
+Cellular senescence	RRAS2	RAF1
+Cellular senescence	RRAS2	C16844...
+Cellular senescence	PIK3CA	C05981
+Cellular senescence	C05981	AKT3
+Cellular senescence	MYC	CDKN2A
+Cellular senescence	RASSF5	HIPK3
+Cellular senescence	C00076	CALML6
+Cellular senescence	C00076	CAPN1
+Cellular senescence	CAPN1	IL1A
+Cellular senescence	CALML6	PPP3CA
+Cellular senescence	RHEB	MTOR
+Cellular senescence	RAF1	MAP2K1
+Cellular senescence	RAF1	MAP2K1
+Cellular senescence	MAP2K1	MAPK1
+Cellular senescence	MAP2K1	MAPK1
+Cellular senescence	MAPK1	ETS1
+Cellular senescence	MAPK1	ETS1
+Cellular senescence	MAP2K3	MAPK14
+Cellular senescence	MAP2K3	MAPK14
+Cellular senescence	MAPK1	MAPK14
+Cellular senescence	MAPK1	MAPK14
+Cellular senescence	MAPK14	TP53
+Cellular senescence	MAPK14	TP53
+Cellular senescence	CHEK2	TP53
+Cellular senescence	CHEK2	TP53
+Cellular senescence	ATR	CHEK1
+Cellular senescence	ATR	CHEK1
+Cellular senescence	CHEK1	TP53
+Cellular senescence	CHEK1	TP53
+Cellular senescence	MAPK14	CDKN2A
+Cellular senescence	MAPK14	CDKN2A
+Cellular senescence	AKT3	FOXO3
+Cellular senescence	AKT3	FOXO3
+Cellular senescence	AKT3	TSC1
+Cellular senescence	AKT3	TSC1
+Cellular senescence	CHEK1	CDC25A
+Cellular senescence	CHEK1	CDC25A
+Cellular senescence	MAPKAPK2	ZFP36L1
+Cellular senescence	MAPKAPK2	ZFP36L1
+Cellular senescence	MTOR	EIF4EBP1
+Cellular senescence	MTOR	EIF4EBP1
+Cellular senescence	PTEN	C05981
+Cellular senescence	SIRT1	FOXO3
+Cellular senescence	CDKN2A	MDM2
+Cellular senescence	RASSF5	MDM2
+Cellular senescence	MDM2	TP53
+Cellular senescence	TSC1	RHEB
+Cellular senescence	RB1	E2F1
+Cellular senescence	ATM	SQSTM1
+Cellular senescence	ATR	SQSTM1
+Cellular senescence	PPP3CA	NFATC1
+Cellular senescence	PPP3CA	NFATC1
+Cellular senescence	PPP1CA	RB1
+Cellular senescence	PPP1CA	RB1
+Cellular senescence	TP53	GADD45G
+Cellular senescence	SMAD2	CDKN2B
+Cellular senescence	ETS1	CDKN2A
+Cellular senescence	TP53	CDKN1A
+Cellular senescence	GATA4	TRAF3IP2
+Cellular senescence	GATA4	IL1A
+Cellular senescence	FOXO3	CDKN1A
+Cellular senescence	TP53	CDKN1A
+Cellular senescence	E2F1	MYBL2
+Cellular senescence	E2F1	FOXM1
+Cellular senescence	C07909	MTOR
+Cellular senescence	HLA-A	KIR2DL1
+Cellular senescence	FOXO1	SMAD2
+Cellular senescence	CDK4	CCND1
+Cellular senescence	CDK2	CCNE1
+Cellular senescence	CDK4	CCND1
+Cellular senescence	CDK2	CCNE1
+Cellular senescence	CDK2	CCNA2
+Cellular senescence	CDK1	CCNB3...
+Cellular senescence	CDK2	CCNE1
+Cellular senescence	CDK4	CCND1
+Cellular senescence	MYBL2	LIN54
+Cellular senescence	FOXM1	LIN54
+Cellular senescence	SLC25A4	VDAC1
+Cellular senescence	SLC25A4	PPID
+Cellular senescence	MRE11	RAD50
+Cellular senescence	RAD50	NBN
+Cellular senescence	MRE11	NBN
+Cellular senescence	HUS1	RAD1
+Cellular senescence	RAD9B...	RAD1
+Cellular senescence	RAD9B...	HUS1
+Cellular senescence	TRAF3IP2	NFKB1
+Cellular senescence	TRAF3IP2	NFKB1
+Cellular senescence	IL1A	NFKB1
+Cellular senescence	IL1A	NFKB1
+Cellular senescence	MTOR	TP53
+Cellular senescence	MTOR	TP53
+Cellular senescence	PIK3CA	FOXO1
+Cellular senescence	PIK3CA	FOXO1
+Cellular senescence	SQSTM1	GATA4
+Cellular senescence	RASSF5	PPP1CA
+Cellular senescence	SIRT1	TP53
+Cellular senescence	RRAS2	CDKN2A
+Cellular senescence	C16844...	MAP2K3
+Cellular senescence	HIPK3	TP53
+Cellular senescence	HIPK3	TP53
+Cellular senescence	ATM	CHEK2
+Cellular senescence	ATM	CHEK2
+Progesterone-mediated oocyte maturation	ADCY1	PRKACA
+Progesterone-mediated oocyte maturation	PIK3CA	AKT3
+Progesterone-mediated oocyte maturation	CCNB1	CDK1
+Progesterone-mediated oocyte maturation	PGR	PIK3CA
+Progesterone-mediated oocyte maturation	PGR	MAPK14
+Progesterone-mediated oocyte maturation	SPDYE2B	CDK1
+Progesterone-mediated oocyte maturation	SPDYE2B	CDK2
+Progesterone-mediated oocyte maturation	AURKA	CPEB2
+Progesterone-mediated oocyte maturation	AURKA	CPEB2
+Progesterone-mediated oocyte maturation	MOS	MAP2K1
+Progesterone-mediated oocyte maturation	MOS	MAP2K1
+Progesterone-mediated oocyte maturation	MAP2K1	MAPK1
+Progesterone-mediated oocyte maturation	MAP2K1	MAPK1
+Progesterone-mediated oocyte maturation	MAPK1	RPS6KA6
+Progesterone-mediated oocyte maturation	MAPK1	RPS6KA6
+Progesterone-mediated oocyte maturation	PLK1	CDC25A
+Progesterone-mediated oocyte maturation	PLK1	CDC25A
+Progesterone-mediated oocyte maturation	RPS6KA6	BUB1
+Progesterone-mediated oocyte maturation	RPS6KA6	BUB1
+Progesterone-mediated oocyte maturation	KRAS	ARAF
+Progesterone-mediated oocyte maturation	RPS6KA6	PKMYT1
+Progesterone-mediated oocyte maturation	RPS6KA6	PKMYT1
+Progesterone-mediated oocyte maturation	PKMYT1	CDK1
+Progesterone-mediated oocyte maturation	PKMYT1	CDK1
+Progesterone-mediated oocyte maturation	CDC25A	CDK1
+Progesterone-mediated oocyte maturation	CDC25A	CDK1
+Progesterone-mediated oocyte maturation	BUB1	MAD2L2
+Progesterone-mediated oocyte maturation	FZR1	ANAPC10
+Progesterone-mediated oocyte maturation	MAD2L2	FZR1
+Progesterone-mediated oocyte maturation	HSP90AA1	MOS
+Progesterone-mediated oocyte maturation	GNAI1	ADCY1
+Progesterone-mediated oocyte maturation	AKT3	PDE3B
+Progesterone-mediated oocyte maturation	AKT3	PDE3B
+Progesterone-mediated oocyte maturation	IGF1R	PIK3CA
+Progesterone-mediated oocyte maturation	IGF1R	KRAS
+Progesterone-mediated oocyte maturation	INS	IGF1R
+Progesterone-mediated oocyte maturation	IGF1	IGF1R
+Progesterone-mediated oocyte maturation	C00410	PGR
+Cushing syndrome	AGTR1	GNA11
+Cushing syndrome	GNA11	PLCB1
+Cushing syndrome	PLCB1	C01245
+Cushing syndrome	C01245	ITPR1
+Cushing syndrome	MC2R	GNAS
+Cushing syndrome	GNAS	ADCY1
+Cushing syndrome	ADCY1	C00575
+Cushing syndrome	C00575	PRKACA
+Cushing syndrome	CREB3	STAR
+Cushing syndrome	CRH	CRHR1
+Cushing syndrome	CRHR1	GNAS
+Cushing syndrome	GNAS	ADCY1
+Cushing syndrome	ADCY1	C00575
+Cushing syndrome	C00575	PRKACA
+Cushing syndrome	PRKACA	CACNA1C
+Cushing syndrome	C00076	CAMK2A
+Cushing syndrome	CAMK2A	RAP1A
+Cushing syndrome	RAP1A	BRAF
+Cushing syndrome	PRKACA	RAP1A
+Cushing syndrome	PRKACA	RAP1A
+Cushing syndrome	PRKACA	CREB3
+Cushing syndrome	PRKACA	CREB3
+Cushing syndrome	BRAF	MAP2K1
+Cushing syndrome	BRAF	MAP2K1
+Cushing syndrome	MAP2K1	MAPK1
+Cushing syndrome	MAP2K1	MAPK1
+Cushing syndrome	MAPK1	NR4A1
+Cushing syndrome	MAPK1	NR4A1
+Cushing syndrome	EGFR	MAPK1
+Cushing syndrome	EGFR	MAPK1
+Cushing syndrome	USP8	EGFR
+Cushing syndrome	CREB3	POMC
+Cushing syndrome	NR4A1	POMC
+Cushing syndrome	GNAI1	ADCY1
+Cushing syndrome	RASD1	GNAI1
+Cushing syndrome	RB1	E2F1
+Cushing syndrome	PRKACA	KCNK2
+Cushing syndrome	PRKACA	NR5A1
+Cushing syndrome	PRKACA	NR4A1
+Cushing syndrome	PRKACA	SP1
+Cushing syndrome	PRKACA	PBX1
+Cushing syndrome	PRKACA	CREB3
+Cushing syndrome	NR5A1	CYP11B1
+Cushing syndrome	NR5A1	CYP17A1
+Cushing syndrome	NR5A1	STAR
+Cushing syndrome	NR5A1	NCEH1
+Cushing syndrome	NR4A1	CYP11B1
+Cushing syndrome	NR4A1	CYP17A1
+Cushing syndrome	NR4A1	STAR
+Cushing syndrome	NR4A1	NCEH1
+Cushing syndrome	SP1	CYP11B1
+Cushing syndrome	SP1	CYP17A1
+Cushing syndrome	SP1	STAR
+Cushing syndrome	SP1	NCEH1
+Cushing syndrome	PBX1	CYP11B1
+Cushing syndrome	PBX1	CYP17A1
+Cushing syndrome	PBX1	STAR
+Cushing syndrome	PBX1	NCEH1
+Cushing syndrome	CREB3	CYP11B1
+Cushing syndrome	CREB3	CYP17A1
+Cushing syndrome	CREB3	NCEH1
+Cushing syndrome	WNT16...	FZD10
+Cushing syndrome	FZD10	DVL1
+Cushing syndrome	DVL1	GSK3B
+Cushing syndrome	C00076	KCNK2
+Cushing syndrome	AGT	AGTR1
+Hepatitis C	DDX58	MAVS
+Hepatitis C	TLR3	TICAM1
+Hepatitis C	TICAM1	TRAF3
+Hepatitis C	EIF2AK1	IFIT1
+Hepatitis C	EIF2AK1	EIF2S1
+Hepatitis C	EGF	EGFR
+Hepatitis C	SOS1	HRAS
+Hepatitis C	HRAS	ARAF
+Hepatitis C	ARAF	MAP2K1
+Hepatitis C	PIK3CA	C05981
+Hepatitis C	TNF	TNFRSF1A
+Hepatitis C	TRADD	TRAF2
+Hepatitis C	TRADD	FADD
+Hepatitis C	CHUK	NFKBIA
+Hepatitis C	FASLG	FAS
+Hepatitis C	FAS	FADD
+Hepatitis C	FADD	CASP8
+Hepatitis C	CASP8	BID
+Hepatitis C	BID	BAX
+Hepatitis C	BID	BAK1
+Hepatitis C	BAX	CYCS
+Hepatitis C	BAK1	CYCS
+Hepatitis C	CYCS	CASP9
+Hepatitis C	CASP9	CASP3
+Hepatitis C	CDK2	RB1
+Hepatitis C	MAVS	CHUK
+Hepatitis C	MAVS	CHUK
+Hepatitis C	TRAF2	CHUK
+Hepatitis C	TRAF2	CHUK
+Hepatitis C	SOCS3	STAT1
+Hepatitis C	PIAS1	STAT1
+Hepatitis C	YWHAQ	ARAF
+Hepatitis C	GSK3B	CTNNB1
+Hepatitis C	CFLAR	CASP8
+Hepatitis C	CDKN1A	CDK2
+Hepatitis C	PPP2CA	STAT1
+Hepatitis C	PPP2CA	STAT1
+Hepatitis C	RB1	E2F1
+Hepatitis C	NFKB1	NFKBIA
+Hepatitis C	NFKB1	NFKBIA
+Hepatitis C	IRF3	IFNA1
+Hepatitis C	IRF3	IFNG
+Hepatitis C	IRF3	TNF
+Hepatitis C	IRF3	CXCL10
+Hepatitis C	NFKB1	TNF
+Hepatitis C	NFKB1	CXCL10
+Hepatitis C	IRF9	OAS1
+Hepatitis C	IRF9	EIF2AK1
+Hepatitis C	IRF9	IFIT1
+Hepatitis C	IRF9	IRF7
+Hepatitis C	IRF9	MX1
+Hepatitis C	IRF9	RSAD2
+Hepatitis C	STAT1	IRF9
+Hepatitis C	TP53	CDKN1A
+Hepatitis C	IFIT1	EIF3E
+Hepatitis C	EGFR	GRB2
+Hepatitis C	GRB2	SOS1
+Hepatitis C	TNFRSF1A	TRADD
+Hepatitis C	APAF1	CASP9
+Hepatitis C	CASP8	CASP3
+Hepatitis C	CHUK	NFKBIA
+Hepatitis C	CHUK	NFKBIA
+Hepatitis C	EIF2AK1	CHUK
+Hepatitis C	EIF2AK1	CHUK
+Hepatitis C	C05981	AKT3
+Hepatitis C	C05981	AKT3
+Hepatitis C	AKT3	GSK3B
+Hepatitis C	AKT3	GSK3B
+Hepatitis C	AKT3	BAD
+Hepatitis C	AKT3	BAD
+Hepatitis C	AKT3	CDKN1A
+Hepatitis C	AKT3	CDKN1A
+Hepatitis C	MAP2K1	MAPK1
+Hepatitis C	MAP2K1	MAPK1
+Hepatitis C	JAK1	STAT1
+Hepatitis C	JAK1	STAT1
+Hepatitis C	MAVS	TRAF3
+Hepatitis C	C20935	OAS1
+Hepatitis C	C20935	RNASEL
+Hepatitis B	CHUK	NFKBIA
+Hepatitis B	FASLG	FAS
+Hepatitis B	FAS	FADD
+Hepatitis B	CASP12	CASP3
+Hepatitis B	APAF1	CASP9
+Hepatitis B	CASP9	CASP3
+Hepatitis B	PTK2B	SRC
+Hepatitis B	SRC	GRB2
+Hepatitis B	HRAS	ARAF
+Hepatitis B	PRKCA	ARAF
+Hepatitis B	ARAF	MAP2K1
+Hepatitis B	ARAF	MAP2K1
+Hepatitis B	MAP2K1	MAPK1
+Hepatitis B	MAP2K1	MAPK1
+Hepatitis B	MAPK8	JUN
+Hepatitis B	MAPK8	SMAD4
+Hepatitis B	HRAS	MAP3K1
+Hepatitis B	IRAK4	TLR4
+Hepatitis B	IRAK4	TRAF6
+Hepatitis B	TRAF6	TAB1
+Hepatitis B	MAPK14	JUN
+Hepatitis B	MAPK8	SRC
+Hepatitis B	TLR3	TICAM1
+Hepatitis B	TICAM2	TICAM1
+Hepatitis B	TLR4	TICAM2
+Hepatitis B	DDX58	MAVS
+Hepatitis B	IFIH1	MAVS
+Hepatitis B	TGFBR1	SMAD2
+Hepatitis B	TGFBR1	SMAD2
+Hepatitis B	MAPK8	SMAD2
+Hepatitis B	MAPK8	SMAD2
+Hepatitis B	AKT3	CHUK
+Hepatitis B	AKT3	CHUK
+Hepatitis B	JAK1	STAT1
+Hepatitis B	JAK1	STAT1
+Hepatitis B	JAK1	STAT3
+Hepatitis B	JAK1	STAT3
+Hepatitis B	MAP3K7	CHUK
+Hepatitis B	MAP3K7	CHUK
+Hepatitis B	CHUK	NFKBIA
+Hepatitis B	CHUK	NFKBIA
+Hepatitis B	MAP3K7	MAP2K1
+Hepatitis B	MAP3K7	MAP2K1
+Hepatitis B	MAP2K1	MAPK1
+Hepatitis B	MAP2K1	MAPK1
+Hepatitis B	MAP2K1	MAPK14
+Hepatitis B	MAP2K1	MAPK14
+Hepatitis B	MAP2K1	MAPK8
+Hepatitis B	MAP2K1	MAPK8
+Hepatitis B	MAP3K7	MAP2K3
+Hepatitis B	MAP3K7	MAP2K3
+Hepatitis B	MAP3K7	MAP2K7
+Hepatitis B	MAP3K7	MAP2K7
+Hepatitis B	MAP2K3	MAPK14
+Hepatitis B	MAP2K3	MAPK14
+Hepatitis B	MAPK8	JUN
+Hepatitis B	MAPK8	JUN
+Hepatitis B	PIK3CA	AKT3
+Hepatitis B	PIK3CA	AKT3
+Hepatitis B	PIK3CA	AKT3
+Hepatitis B	MAPK1	CREB3
+Hepatitis B	MAPK1	CREB3
+Hepatitis B	MAPK1	CREB3
+Hepatitis B	NFKB1	NFKB1
+Hepatitis B	BIRC5	CASP9
+Hepatitis B	BIRC5	CASP3
+Hepatitis B	SMAD2	CDKN1A
+Hepatitis B	SMAD2	MYC
+Hepatitis B	EGR2	FASLG
+Hepatitis B	NFKB1	MMP9
+Hepatitis B	NFKB1	BCL2
+Hepatitis B	TP53	BAX
+Hepatitis B	TP53	FAS
+Hepatitis B	TP53	CDKN1A
+Hepatitis B	FOS	MMP9
+Hepatitis B	NFKB1	TNF
+Hepatitis B	NFKB1	IL6
+Hepatitis B	IRF3	IFNA1
+Hepatitis B	IRF3	IFNB1
+Hepatitis B	NFKB1	NFKBIA
+Hepatitis B	NFKBIA	NFKB1
+Hepatitis B	AKT3	BAD
+Hepatitis B	AKT3	BAD
+Hepatitis B	CCNE1	RB1
+Hepatitis B	RB1	E2F1
+Hepatitis B	NFATC1	TNF
+Hepatitis B	BCL2	BAX
+Hepatitis B	IFNA1	IFNAR1
+Hepatitis B	TICAM1	TRAF3
+Hepatitis B	MAVS	TRAF3
+Hepatitis B	TRAF3	TBK1
+Hepatitis B	EGR2	CREBBP
+Hepatitis B	APAF1	CYCS
+Hepatitis B	SMAD2	SMAD2
+Hepatitis B	SMAD2	SMAD2
+Hepatitis B	ATP6AP1	PRKCA
+Hepatitis B	GRB2	SOS1
+Hepatitis B	SOS1	HRAS
+Hepatitis B	C00076	PTK2B
+Measles	SLAMF1	SH2D1A
+Measles	SH2D1A	FYN
+Measles	FYN	SLAMF1
+Measles	FYN	SLAMF1
+Measles	SLAMF1	DOK1
+Measles	DOK1	PRKCQ
+Measles	DOK1	PRKCQ
+Measles	CD3D	PIK3CA
+Measles	CD3D	PIK3CA
+Measles	CD28	PIK3CA
+Measles	CD28	PIK3CA
+Measles	IL2RA	PIK3CA
+Measles	IL2RA	PIK3CA
+Measles	PIK3CA	AKT3
+Measles	PIK3CA	AKT3
+Measles	AKT3	GSK3B
+Measles	AKT3	GSK3B
+Measles	IL2	IL2RA
+Measles	IL2	IL2RA
+Measles	IL2RA	JAK1
+Measles	JAK1	STAT3
+Measles	JAK1	STAT3
+Measles	DDX58	MAVS
+Measles	IFIH1	MAVS
+Measles	CHUK	IRF7
+Measles	CHUK	IRF7
+Measles	TLR7	MYD88
+Measles	MYD88	IRAK1
+Measles	IRAK1	IRF7
+Measles	IRAK1	IRF7
+Measles	MAVS	IRF7
+Measles	MAVS	IRF7
+Measles	MAVS	NFKB1
+Measles	MAVS	NFKB1
+Measles	TLR2	MYD88
+Measles	MYD88	IRAK1
+Measles	IRAK1	TRAF6
+Measles	NFKBIA	NFKB1
+Measles	FCGR2B	IL12A
+Measles	FCGR2B	IL12A
+Measles	IFNA1	IFNAR1
+Measles	IFNAR1	RACK1
+Measles	RACK1	STAT1
+Measles	IFNAR1	JAK1
+Measles	JAK1	STAT1
+Measles	JAK1	STAT1
+Measles	STAT1	IRF9
+Measles	IFNG	IFNGR1
+Measles	IFNGR1	JAK1
+Measles	JAK1	STAT1
+Measles	JAK1	STAT1
+Measles	STAT1	IRF9
+Measles	CCND1	CDKN1B
+Measles	FASLG	FAS
+Measles	TNFSF10	TNFRSF10B
+Measles	EIF2AK1	EIF2S1
+Measles	EIF2AK1	EIF2S1
+Measles	RCHY1	TP53
+Measles	RCHY1	TP53
+Measles	CBLB	PIK3CA
+Measles	CBLB	PIK3CA
+Measles	TNFAIP3	TRAF6
+Measles	PRKCQ	IL13
+Measles	PRKCQ	IL4
+Measles	IRF3	IFNA1
+Measles	IRF3	IFNB1
+Measles	IRF7	IFNA1
+Measles	IRF7	IFNB1
+Measles	NFKB1	IFNA1
+Measles	NFKB1	IFNB1
+Measles	IRF9	OAS1
+Measles	IRF9	ADAR
+Measles	IRF9	MX1
+Measles	TP73	BBC3
+Human papillomavirus infection	WNT16...	FZD10
+Human papillomavirus infection	FZD10	DVL1
+Human papillomavirus infection	UBE3A	CTNNB1
+Human papillomavirus infection	TLR3	TICAM1
+Human papillomavirus infection	TICAM1	TRAF3
+Human papillomavirus infection	PTK2	PXN
+Human papillomavirus infection	TNF	TNFRSF1A
+Human papillomavirus infection	TRADD	FADD
+Human papillomavirus infection	FASLG	FAS
+Human papillomavirus infection	FAS	FADD
+Human papillomavirus infection	FADD	CASP8
+Human papillomavirus infection	CASP8	CASP3
+Human papillomavirus infection	PDGFRB	PIK3CA
+Human papillomavirus infection	PIK3CA	C05981
+Human papillomavirus infection	C05981	AKT3
+Human papillomavirus infection	PDGFRB	GRB2
+Human papillomavirus infection	EGF	EGFR
+Human papillomavirus infection	EGFR	GRB2
+Human papillomavirus infection	GRB2	SOS1
+Human papillomavirus infection	SOS1	HRAS
+Human papillomavirus infection	HRAS	RAF1
+Human papillomavirus infection	C00584	PTGER4
+Human papillomavirus infection	PTGER4	GNAS
+Human papillomavirus infection	C00575	PRKACA
+Human papillomavirus infection	PRKACA	CREB3
+Human papillomavirus infection	JAG1	NOTCH1
+Human papillomavirus infection	DVL1	GSK3B
+Human papillomavirus infection	CREBBP	TP53
+Human papillomavirus infection	TADA3	TP53
+Human papillomavirus infection	PTEN	C05981
+Human papillomavirus infection	PPP2R3B	AKT3
+Human papillomavirus infection	RHEB	MTOR
+Human papillomavirus infection	MTOR	RPS6KB1
+Human papillomavirus infection	MTOR	RPS6KB1
+Human papillomavirus infection	MTOR	EIF4EBP1
+Human papillomavirus infection	MTOR	EIF4EBP1
+Human papillomavirus infection	UBE3A	TP53
+Human papillomavirus infection	RB1	E2F1
+Human papillomavirus infection	AKT3	FOXO1
+Human papillomavirus infection	MDM2	TP53
+Human papillomavirus infection	TCIRG1	EGFR
+Human papillomavirus infection	IRF3	IFNB1
+Human papillomavirus infection	FOXO1	CDKN1B
+Human papillomavirus infection	FOXO1	CDKN1A
+Human papillomavirus infection	TP53	CDKN1B
+Human papillomavirus infection	TP53	CDKN1A
+Human papillomavirus infection	IRF1	IFNB1
+Human papillomavirus infection	CREB3	PTGER4
+Human papillomavirus infection	EGFR	PTGS2
+Human papillomavirus infection	LFNG	NOTCH1
+Human papillomavirus infection	E2F1	CCNA2
+Human papillomavirus infection	E2F1	CCNE1
+Human papillomavirus infection	PRKACA	BAX
+Human papillomavirus infection	PRKACA	BAX
+Human papillomavirus infection	AKT3	BAD
+Human papillomavirus infection	AKT3	BAD
+Human papillomavirus infection	AKT3	GSK3B
+Human papillomavirus infection	AKT3	GSK3B
+Human papillomavirus infection	GSK3B	CCND1
+Human papillomavirus infection	GSK3B	CCND1
+Human papillomavirus infection	AKT3	CHUK
+Human papillomavirus infection	AKT3	CHUK
+Human papillomavirus infection	AKT3	MDM2
+Human papillomavirus infection	AKT3	MDM2
+Human papillomavirus infection	CHUK	NFKB1
+Human papillomavirus infection	CHUK	NFKB1
+Human papillomavirus infection	EGFR	PIK3CA
+Human papillomavirus infection	EGFR	PIK3CA
+Human papillomavirus infection	GNAS	C00575
+Human papillomavirus infection	GNAS	C00575
+Human papillomavirus infection	CTNNB1	TERT
+Human papillomavirus infection	TERT	TCF7
+Human papillomavirus infection	AKT3	VEGFA
+Human papillomavirus infection	AKT3	VEGFA
+Human papillomavirus infection	RAF1	MAP2K1
+Human papillomavirus infection	RAF1	MAP2K1
+Human papillomavirus infection	MAP2K1	MAPK1
+Human papillomavirus infection	MAP2K1	MAPK1
+Human papillomavirus infection	PTGS2	C00584
+Human papillomavirus infection	STAT1	STAT2
+Human papillomavirus infection	STAT2	STAT1
+Human papillomavirus infection	PSMC1	RB1
+Human papillomavirus infection	UBE3A	NFX1
+Human papillomavirus infection	NFX1	TERT
+Human T-cell leukemia virus 1 infection	ITGAL	ICAM1
+Human T-cell leukemia virus 1 infection	ICAM1	ITGAL
+Human T-cell leukemia virus 1 infection	B2M	HLA-A
+Human T-cell leukemia virus 1 infection	ICAM1	HRAS
+Human T-cell leukemia virus 1 infection	HRAS	MAP2K1
+Human T-cell leukemia virus 1 infection	MAP2K1	MAPK1
+Human T-cell leukemia virus 1 infection	IL2RB	JAK1
+Human T-cell leukemia virus 1 infection	PIK3CA	C05981
+Human T-cell leukemia virus 1 infection	C05981	AKT3
+Human T-cell leukemia virus 1 infection	DLG1	PTEN
+Human T-cell leukemia virus 1 infection	IKBKG	CHUK
+Human T-cell leukemia virus 1 infection	CHUK	NFKB2
+Human T-cell leukemia virus 1 infection	ADCY1	C00575
+Human T-cell leukemia virus 1 infection	C00575	PRKACA
+Human T-cell leukemia virus 1 infection	AKT3	JUN
+Human T-cell leukemia virus 1 infection	AKT3	JUN
+Human T-cell leukemia virus 1 infection	TNFRSF1A	MAP3K1
+Human T-cell leukemia virus 1 infection	TNFRSF1A	MAP3K1
+Human T-cell leukemia virus 1 infection	TNFRSF1A	MAP3K3
+Human T-cell leukemia virus 1 infection	TNFRSF1A	MAP3K3
+Human T-cell leukemia virus 1 infection	IL1R1	MAP3K3
+Human T-cell leukemia virus 1 infection	IL1R1	MAP3K3
+Human T-cell leukemia virus 1 infection	CD3D	MAP3K3
+Human T-cell leukemia virus 1 infection	CD3D	MAP3K3
+Human T-cell leukemia virus 1 infection	LTBR	MAP3K14
+Human T-cell leukemia virus 1 infection	LTBR	MAP3K14
+Human T-cell leukemia virus 1 infection	CD40	MAP3K14
+Human T-cell leukemia virus 1 infection	CD40	MAP3K14
+Human T-cell leukemia virus 1 infection	TNFRSF13C	MAP3K14
+Human T-cell leukemia virus 1 infection	TNFRSF13C	MAP3K14
+Human T-cell leukemia virus 1 infection	TGFB1	TGFBR1
+Human T-cell leukemia virus 1 infection	MYC	CCND2
+Human T-cell leukemia virus 1 infection	NFATC1	IL2
+Human T-cell leukemia virus 1 infection	STAT5A	IL2
+Human T-cell leukemia virus 1 infection	NFYB	HLA-DMA
+Human T-cell leukemia virus 1 infection	CREB3	CCND1
+Human T-cell leukemia virus 1 infection	TCF3	POLB
+Human T-cell leukemia virus 1 infection	TCF3	LCK
+Human T-cell leukemia virus 1 infection	TCF3	BAX
+Human T-cell leukemia virus 1 infection	TCF3	CDKN2C
+Human T-cell leukemia virus 1 infection	MYC	TERT
+Human T-cell leukemia virus 1 infection	FDPS	HRAS
+Human T-cell leukemia virus 1 infection	FDPS	HRAS
+Human T-cell leukemia virus 1 infection	PTTG2...	ESPL1
+Human T-cell leukemia virus 1 infection	MAP3K1	MAP2K4
+Human T-cell leukemia virus 1 infection	MAP3K1	MAP2K4
+Human T-cell leukemia virus 1 infection	MAP2K4	MAPK8
+Human T-cell leukemia virus 1 infection	MAP2K4	MAPK8
+Human T-cell leukemia virus 1 infection	MAPK8	JUN
+Human T-cell leukemia virus 1 infection	MAPK8	JUN
+Human T-cell leukemia virus 1 infection	MAP3K14	CHUK
+Human T-cell leukemia virus 1 infection	MAP3K14	CHUK
+Human T-cell leukemia virus 1 infection	TGFBR1	SMAD2
+Human T-cell leukemia virus 1 infection	TGFBR1	SMAD2
+Human T-cell leukemia virus 1 infection	PRKACA	CREB3
+Human T-cell leukemia virus 1 infection	PRKACA	CREB3
+Human T-cell leukemia virus 1 infection	RB1	E2F1
+Human T-cell leukemia virus 1 infection	CALR	C00076
+Human T-cell leukemia virus 1 infection	CALR	C00076
+Human T-cell leukemia virus 1 infection	CANX	C00076
+Human T-cell leukemia virus 1 infection	CANX	C00076
+Human T-cell leukemia virus 1 infection	C00076	PPP3CA
+Human T-cell leukemia virus 1 infection	PPP3CA	NFATC1
+Human T-cell leukemia virus 1 infection	PPP3CA	NFATC1
+Human T-cell leukemia virus 1 infection	JAK1	STAT5A
+Human T-cell leukemia virus 1 infection	JAK1	STAT5A
+Human T-cell leukemia virus 1 infection	ATM	CHEK1
+Human T-cell leukemia virus 1 infection	ATM	CHEK1
+Human T-cell leukemia virus 1 infection	CHEK1	TP53
+Human T-cell leukemia virus 1 infection	CHEK1	TP53
+Human T-cell leukemia virus 1 infection	ANAPC10	PTTG2...
+Human T-cell leukemia virus 1 infection	ANAPC10	PTTG2...
+Human T-cell leukemia virus 1 infection	ANAPC10	CCNB2
+Human T-cell leukemia virus 1 infection	ANAPC10	CCNB2
+Human T-cell leukemia virus 1 infection	MAD2L1	CDC20
+Human T-cell leukemia virus 1 infection	BUB1B	JUN
+Human T-cell leukemia virus 1 infection	JUN	MMP7
+Human T-cell leukemia virus 1 infection	NFKB1	IL2
+Human T-cell leukemia virus 1 infection	NFKB1	IL2RA
+Human T-cell leukemia virus 1 infection	NFKB1	IL15
+Human T-cell leukemia virus 1 infection	NFKB1	IL15RA
+Human T-cell leukemia virus 1 infection	NFKB1	IL6
+Human T-cell leukemia virus 1 infection	NFKB1	CSF2
+Human T-cell leukemia virus 1 infection	NFKB1	LTA
+Human T-cell leukemia virus 1 infection	NFKB1	BCL2L1
+Human T-cell leukemia virus 1 infection	NFKB1	XIAP
+Human T-cell leukemia virus 1 infection	NFKB2	IL2
+Human T-cell leukemia virus 1 infection	NFKB2	IL2RA
+Human T-cell leukemia virus 1 infection	NFKB2	IL15
+Human T-cell leukemia virus 1 infection	NFKB2	IL15RA
+Human T-cell leukemia virus 1 infection	NFKB2	IL6
+Human T-cell leukemia virus 1 infection	NFKB2	CSF2
+Human T-cell leukemia virus 1 infection	NFKB2	LTA
+Human T-cell leukemia virus 1 infection	NFKB2	BCL2L1
+Human T-cell leukemia virus 1 infection	NFKB2	XIAP
+Human T-cell leukemia virus 1 infection	TNF	TNFRSF1A
+Human T-cell leukemia virus 1 infection	TP53	CDKN1A
+Human T-cell leukemia virus 1 infection	PTEN	C05981
+Human T-cell leukemia virus 1 infection	NFKBIA	NFKB1
+Epstein-Barr virus infection	HLA-A	B2M
+Epstein-Barr virus infection	TLR2	MYD88
+Epstein-Barr virus infection	MYD88	IRAK1
+Epstein-Barr virus infection	IRAK1	TAB1
+Epstein-Barr virus infection	DDX58	MAVS
+Epstein-Barr virus infection	MAVS	TRAF3
+Epstein-Barr virus infection	FAS	FADD
+Epstein-Barr virus infection	EIF2AK2	FADD
+Epstein-Barr virus infection	FADD	CASP8
+Epstein-Barr virus infection	CASP8	CASP3
+Epstein-Barr virus infection	CASP8	BID
+Epstein-Barr virus infection	BID	BAK1
+Epstein-Barr virus infection	CYCS	APAF1
+Epstein-Barr virus infection	APAF1	CASP9
+Epstein-Barr virus infection	CASP9	CASP3
+Epstein-Barr virus infection	IFNA1	IFNAR1
+Epstein-Barr virus infection	IFNAR1	JAK1
+Epstein-Barr virus infection	IFNAR1	TYK2
+Epstein-Barr virus infection	PIK3CA	C05981
+Epstein-Barr virus infection	C05981	AKT3
+Epstein-Barr virus infection	LYN	PIK3CA
+Epstein-Barr virus infection	SYK	PIK3CA
+Epstein-Barr virus infection	PIK3CA	C05981
+Epstein-Barr virus infection	C05981	AKT3
+Epstein-Barr virus infection	PIK3CA	RAC1
+Epstein-Barr virus infection	IGH	LYN
+Epstein-Barr virus infection	IGH	SYK
+Epstein-Barr virus infection	PLCG2	C01245
+Epstein-Barr virus infection	MDM2	TP53
+Epstein-Barr virus infection	MDM2	TP53
+Epstein-Barr virus infection	SKP2	CDKN1B
+Epstein-Barr virus infection	SKP2	CDKN1B
+Epstein-Barr virus infection	NEDD4	LYN
+Epstein-Barr virus infection	NEDD4	LYN
+Epstein-Barr virus infection	NEDD4	SYK
+Epstein-Barr virus infection	NEDD4	SYK
+Epstein-Barr virus infection	USP7	TP53
+Epstein-Barr virus infection	SKP2	RB1
+Epstein-Barr virus infection	SKP2	RB1
+Epstein-Barr virus infection	CHUK	NFKBIA
+Epstein-Barr virus infection	CHUK	NFKBIA
+Epstein-Barr virus infection	MAP3K14	CHUK
+Epstein-Barr virus infection	MAP3K14	CHUK
+Epstein-Barr virus infection	CHUK	NFKB2
+Epstein-Barr virus infection	CHUK	NFKB2
+Epstein-Barr virus infection	MAP3K7	CHUK
+Epstein-Barr virus infection	MAP3K7	CHUK
+Epstein-Barr virus infection	CHUK	NFKBIA
+Epstein-Barr virus infection	CHUK	NFKBIA
+Epstein-Barr virus infection	MAP3K7	MAP2K7
+Epstein-Barr virus infection	MAP3K7	MAP2K7
+Epstein-Barr virus infection	MAP2K7	MAPK8
+Epstein-Barr virus infection	MAP2K7	MAPK8
+Epstein-Barr virus infection	MAP2K3	MAPK14
+Epstein-Barr virus infection	MAP2K3	MAPK14
+Epstein-Barr virus infection	MAPK8	JUN
+Epstein-Barr virus infection	MAPK8	JUN
+Epstein-Barr virus infection	MAPK14	JUN
+Epstein-Barr virus infection	MAPK14	JUN
+Epstein-Barr virus infection	RB1	E2F1
+Epstein-Barr virus infection	NFKB1	NFKBIA
+Epstein-Barr virus infection	BAK1	CYCS
+Epstein-Barr virus infection	BAK1	CYCS
+Epstein-Barr virus infection	NFKB1	TNF
+Epstein-Barr virus infection	NFKB1	IL6
+Epstein-Barr virus infection	IRF7	IFNA1
+Epstein-Barr virus infection	IRF7	IFNB1
+Epstein-Barr virus infection	IRF3	IFNA1
+Epstein-Barr virus infection	IRF3	IFNB1
+Epstein-Barr virus infection	RBPJL	CR2
+Epstein-Barr virus infection	RBPJL	HES1
+Epstein-Barr virus infection	RBPJL	FCER2
+Epstein-Barr virus infection	RBPJL	RUNX3
+Epstein-Barr virus infection	RBPJL	MYC
+Epstein-Barr virus infection	TP53	CDKN1A
+Epstein-Barr virus infection	TP53	GADD45G
+Epstein-Barr virus infection	TP53	BAX
+Epstein-Barr virus infection	TP53	BAK1
+Epstein-Barr virus infection	TP53	DDB2
+Epstein-Barr virus infection	TP53	POLK
+Epstein-Barr virus infection	NFKB2	FCER2
+Epstein-Barr virus infection	NFKB2	ENTPD8
+Epstein-Barr virus infection	NFKB2	CD40
+Epstein-Barr virus infection	NFKB2	CD44
+Epstein-Barr virus infection	NFKB2	ITGAL
+Epstein-Barr virus infection	NFKB2	CD58
+Epstein-Barr virus infection	NFKB2	ICAM1
+Epstein-Barr virus infection	NFKB2	VIM
+Epstein-Barr virus infection	NFKB1	FCER2
+Epstein-Barr virus infection	NFKB1	ENTPD8
+Epstein-Barr virus infection	NFKB1	CD40
+Epstein-Barr virus infection	NFKB1	CD44
+Epstein-Barr virus infection	NFKB1	ITGAL
+Epstein-Barr virus infection	NFKB1	CD58
+Epstein-Barr virus infection	NFKB1	ICAM1
+Epstein-Barr virus infection	NFKB1	VIM
+Epstein-Barr virus infection	JUN	FCER2
+Epstein-Barr virus infection	JUN	ENTPD8
+Epstein-Barr virus infection	JUN	CD40
+Epstein-Barr virus infection	JUN	CD44
+Epstein-Barr virus infection	JUN	ITGAL
+Epstein-Barr virus infection	JUN	CD58
+Epstein-Barr virus infection	JUN	ICAM1
+Epstein-Barr virus infection	JUN	VIM
+Epstein-Barr virus infection	JUN	TNFAIP3
+Epstein-Barr virus infection	JUN	BCL2
+Epstein-Barr virus infection	NFKB2	TNFAIP3
+Epstein-Barr virus infection	NFKB2	BCL2
+Epstein-Barr virus infection	NFKB1	TNFAIP3
+Epstein-Barr virus infection	NFKB1	BCL2
+Epstein-Barr virus infection	TRAF3	PIK3CA
+Epstein-Barr virus infection	TRAF3	PIK3CA
+Epstein-Barr virus infection	TRAF3	MAP3K14
+Epstein-Barr virus infection	TRAF3	MAP3K14
+Epstein-Barr virus infection	TRADD	MAP3K14
+Epstein-Barr virus infection	TRADD	MAP3K14
+Epstein-Barr virus infection	LYN	LYN
+Epstein-Barr virus infection	LYN	LYN
+Epstein-Barr virus infection	SYK	SYK
+Epstein-Barr virus infection	SYK	SYK
+Pathways in cancer	CASP3	DCC
+Pathways in cancer	PTK2	PIK3CA
+Pathways in cancer	ABL1	STAT5A
+Pathways in cancer	ABL1	GRB2
+Pathways in cancer	TGFA	EGFR
+Pathways in cancer	PDGFA	PDGFRA
+Pathways in cancer	IGF1	IGF1R
+Pathways in cancer	HGF	MET
+Pathways in cancer	EGFR	PIK3CA
+Pathways in cancer	EGFR	JAK1
+Pathways in cancer	ERBB2	PIK3CA
+Pathways in cancer	ERBB2	JAK1
+Pathways in cancer	EGFR	PLCG1
+Pathways in cancer	PDGFRA	PLCG1
+Pathways in cancer	PDGFRA	GRB2
+Pathways in cancer	PDGFRA	PIK3CA
+Pathways in cancer	IGF1R	PLCG1
+Pathways in cancer	IGF1R	GRB2
+Pathways in cancer	IGF1R	PIK3CA
+Pathways in cancer	KIT	PIK3CA
+Pathways in cancer	KIT	GRB2
+Pathways in cancer	FLT3	PIK3CA
+Pathways in cancer	FLT3	GRB2
+Pathways in cancer	MET	GRB2
+Pathways in cancer	FGFR1	GRB2
+Pathways in cancer	GRB2	SOS1
+Pathways in cancer	SOS1	HRAS
+Pathways in cancer	HRAS	ARAF
+Pathways in cancer	HRAS	PIK3CA
+Pathways in cancer	HRAS	RASSF1
+Pathways in cancer	PRKCA	ARAF
+Pathways in cancer	HRAS	RALGDS
+Pathways in cancer	RALGDS	RALA
+Pathways in cancer	RALA	RALBP1
+Pathways in cancer	RALA	PLD1
+Pathways in cancer	RALGDS	RHOA
+Pathways in cancer	FASLG	FAS
+Pathways in cancer	FAS	FADD
+Pathways in cancer	FADD	CASP8
+Pathways in cancer	CASP8	BID
+Pathways in cancer	CYCS	CASP9
+Pathways in cancer	DVL1	GSK3B
+Pathways in cancer	PML	SPI1
+Pathways in cancer	RUNX1	SPI1
+Pathways in cancer	RUNX1	CEBPA
+Pathways in cancer	MDM2	TP53
+Pathways in cancer	SHH	PTCH1
+Pathways in cancer	PTCH1	SMO
+Pathways in cancer	AKT3	GSK3B
+Pathways in cancer	AKT3	GSK3B
+Pathways in cancer	AKT3	CASP9
+Pathways in cancer	AKT3	CASP9
+Pathways in cancer	AKT3	BAD
+Pathways in cancer	AKT3	BAD
+Pathways in cancer	AKT3	FOXO1
+Pathways in cancer	AKT3	FOXO1
+Pathways in cancer	AKT3	CDKN1B
+Pathways in cancer	AKT3	CDKN1B
+Pathways in cancer	AKT3	CDKN1A
+Pathways in cancer	AKT3	CDKN1A
+Pathways in cancer	AKT3	CHUK
+Pathways in cancer	AKT3	CHUK
+Pathways in cancer	CHUK	NFKBIA
+Pathways in cancer	CHUK	NFKBIA
+Pathways in cancer	AKT3	MTOR
+Pathways in cancer	AKT3	MTOR
+Pathways in cancer	AKT3	MDM2
+Pathways in cancer	AKT3	MDM2
+Pathways in cancer	JAK1	STAT3
+Pathways in cancer	JAK1	STAT3
+Pathways in cancer	JAK1	STAT1
+Pathways in cancer	JAK1	STAT1
+Pathways in cancer	ARAF	MAP2K1
+Pathways in cancer	ARAF	MAP2K1
+Pathways in cancer	MAP2K1	MAPK1
+Pathways in cancer	MAP2K1	MAPK1
+Pathways in cancer	MAPK1	JUN
+Pathways in cancer	MAPK1	JUN
+Pathways in cancer	MAPK1	FOS
+Pathways in cancer	MAPK1	FOS
+Pathways in cancer	MAPK1	MYC
+Pathways in cancer	MAPK1	MYC
+Pathways in cancer	RET	HRAS
+Pathways in cancer	TFG	HRAS
+Pathways in cancer	PRKCA	HRAS
+Pathways in cancer	MDM2	TP53
+Pathways in cancer	BAD	BCL2L1
+Pathways in cancer	RALBP1	RAC1
+Pathways in cancer	AR	KLK3
+Pathways in cancer	LEF1	BIRC5
+Pathways in cancer	LEF1	MYC
+Pathways in cancer	LEF1	CCND1
+Pathways in cancer	NFKB1	PTGS2
+Pathways in cancer	NFKB1	NOS2
+Pathways in cancer	NFKB1	BCL2
+Pathways in cancer	NFKB1	BIRC8
+Pathways in cancer	NFKB1	BCL2L1
+Pathways in cancer	NFKB1	TRAF1
+Pathways in cancer	NFKB1	CCND1
+Pathways in cancer	STAT5A	BCL2L1
+Pathways in cancer	STAT3	VEGFD
+Pathways in cancer	STAT1	VEGFD
+Pathways in cancer	JUN	VEGFD
+Pathways in cancer	JUN	CXCL8
+Pathways in cancer	JUN	MMP1
+Pathways in cancer	JUN	CCND1
+Pathways in cancer	JUN	CDK4
+Pathways in cancer	FOS	VEGFD
+Pathways in cancer	FOS	CXCL8
+Pathways in cancer	FOS	MMP1
+Pathways in cancer	FOS	CCND1
+Pathways in cancer	FOS	CDK4
+Pathways in cancer	MYC	VEGFD
+Pathways in cancer	MYC	CXCL8
+Pathways in cancer	MYC	MMP1
+Pathways in cancer	MYC	CCND1
+Pathways in cancer	MYC	CDK4
+Pathways in cancer	JUP	PPARD
+Pathways in cancer	JUP	MYC
+Pathways in cancer	JUP	CCND1
+Pathways in cancer	ZBTB17	CDKN2B
+Pathways in cancer	EPAS1	SLC2A1
+Pathways in cancer	EPAS1	VEGFD
+Pathways in cancer	EPAS1	PDGFB
+Pathways in cancer	EPAS1	TGFB1
+Pathways in cancer	EPAS1	TGFA
+Pathways in cancer	GLI1	BMP2
+Pathways in cancer	GLI1	GLI1
+Pathways in cancer	GLI1	WNT16...
+Pathways in cancer	GLI1	HHIP
+Pathways in cancer	GLI1	PTCH1
+Pathways in cancer	NFKBIA	NFKB1
+Pathways in cancer	JUP	LEF1
+Pathways in cancer	SMAD2	SMAD4
+Pathways in cancer	EPAS1	ARNT
+Pathways in cancer	EPAS1	CREBBP
+Pathways in cancer	RARA	JUP
+Pathways in cancer	PML	JUP
+Pathways in cancer	RUNX1	JUP
+Pathways in cancer	C05981	AKT3
+Pathways in cancer	C00165	PRKCA
+Pathways in cancer	C00076	PRKCA
+Pathways in cancer	RB1	E2F1
+Pathways in cancer	RHOA	MAPK8
+Pathways in cancer	PPARG	RXRA
+Pathways in cancer	GSK3B	CTNNB1
+Pathways in cancer	NKX3-1	AKT3
+Pathways in cancer	RASSF1	STK4
+Pathways in cancer	RASSF1	CCND1
+Pathways in cancer	RASSF1	HRAS
+Pathways in cancer	DAPK1	MAPK1
+Pathways in cancer	SPI1	CSF3R
+Pathways in cancer	SPI1	CSF2RA
+Pathways in cancer	SPI1	CSF1R
+Pathways in cancer	CEBPA	CSF3R
+Pathways in cancer	CEBPA	IL6
+Pathways in cancer	CEBPA	E2F1
+Pathways in cancer	CEBPA	MYC
+Pathways in cancer	CEBPA	CSF3R
+Pathways in cancer	CEBPA	IL6
+Pathways in cancer	CEBPA	E2F1
+Pathways in cancer	CEBPA	MYC
+Pathways in cancer	RUNX1	CSF1R
+Pathways in cancer	TP53	CDKN1A
+Pathways in cancer	CDKN2A	MDM2
+Pathways in cancer	EGLN2	EPAS1
+Pathways in cancer	RARA	CCNA1
+Pathways in cancer	PML	CCNA1
+Pathways in cancer	KITLG	KIT
+Pathways in cancer	FLT3LG	FLT3
+Pathways in cancer	FGF1	FGFR1
+Pathways in cancer	RASSF5	RASSF1
+Pathways in cancer	ETS1	VEGFD
+Pathways in cancer	ETS1	MMP1
+Pathways in cancer	ETS1	CXCL8
+Pathways in cancer	ETS1	CCND1
+Pathways in cancer	ETS1	CDK4
+Pathways in cancer	BID	CYCS
+Pathways in cancer	C00535	AR
+Pathways in cancer	C03917	AR
+Pathways in cancer	C00951...	AR
+Pathways in cancer	C00187	SHH
+Pathways in cancer	C00122	EGLN2
+Pathways in cancer	RUNX1	CSF1R
+Pathways in cancer	PLD1	C00416
+Pathways in cancer	PTEN	C05981
+Pathways in cancer	EGF	EGFR
+Pathways in cancer	PIK3CA	C05981
+Pathways in cancer	CTNNB1	LEF1
+Pathways in cancer	MAPK1	ETS1
+Pathways in cancer	MAPK1	ETS1
+Pathways in cancer	PLCG1	C00165
+Pathways in cancer	PLCG1	C00076
+Pathways in cancer	SMO	SUFU
+Pathways in cancer	SUFU	GLI1
+Pathways in cancer	KIF7	SUFU
+Pathways in cancer	JAG1	NOTCH1
+Pathways in cancer	DLL3	NOTCH1
+Pathways in cancer	NOTCH1	ERBB2
+Pathways in cancer	NOTCH1	HES1
+Pathways in cancer	NOTCH1	HEY1
+Pathways in cancer	NOTCH1	FLT4
+Pathways in cancer	C00122	C00149
+Pathways in cancer	C01471	KEAP1
+Pathways in cancer	C00704	KEAP1
+Pathways in cancer	C21641	KEAP1
+Pathways in cancer	C21642	KEAP1
+Pathways in cancer	C00027	KEAP1
+Pathways in cancer	C16844	KEAP1
+Pathways in cancer	C00533	KEAP1
+Pathways in cancer	KEAP1	NFE2L2
+Pathways in cancer	NFE2L2	HMOX1
+Pathways in cancer	NFE2L2	NQO1
+Pathways in cancer	NFE2L2	GSTO2
+Pathways in cancer	NFE2L2	TXNRD2
+Pathways in cancer	TP53	GADD45G
+Pathways in cancer	TP53	BAK1
+Pathways in cancer	TP53	POLK
+Pathways in cancer	TP53	BAX
+Pathways in cancer	TP53	DDB2
+Pathways in cancer	FRAT1...	DVL1
+Pathways in cancer	EDNRA	GNA11
+Pathways in cancer	GNA11	PLCB1
+Pathways in cancer	PLCB1	C01245
+Pathways in cancer	PLCB1	C00165
+Pathways in cancer	C00165	PRKCA
+Pathways in cancer	C00165	RASGRP1
+Pathways in cancer	PLCB1	C00076
+Pathways in cancer	C00076	RASGRP1
+Pathways in cancer	RASGRP1	HRAS
+Pathways in cancer	C00951	ESR1
+Pathways in cancer	MAPK1	RPS6KA5
+Pathways in cancer	MAPK1	RPS6KA5
+Pathways in cancer	RPS6KA5	MYC
+Pathways in cancer	PMAIP1	BCL2
+Pathways in cancer	BBC3	BCL2
+Pathways in cancer	BAD	BCL2
+Pathways in cancer	BCL2L11	BCL2
+Pathways in cancer	BCL2	BAX
+Pathways in cancer	BAX	CYCS
+Pathways in cancer	CYCS	APAF1
+Pathways in cancer	CASP9	CASP3
+Pathways in cancer	STAT5A	PIM2...
+Pathways in cancer	JAK1	STAT5A
+Pathways in cancer	JAK1	STAT5A
+Pathways in cancer	JAK1	STAT2
+Pathways in cancer	JAK1	STAT2
+Pathways in cancer	MTOR	RPS6KB1
+Pathways in cancer	MTOR	RPS6KB1
+Pathways in cancer	EPO	CSF2RB
+Pathways in cancer	CSF2RB	JAK1
+Pathways in cancer	ALK	JAK1
+Pathways in cancer	ALK	PIK3CA
+Pathways in cancer	ALK	HRAS
+Pathways in cancer	ALK	HRAS
+Pathways in cancer	PRKCA	ELK1
+Pathways in cancer	C00076	CALML6
+Pathways in cancer	CALML6	CAMK2A
+Pathways in cancer	CAMK2A	HRAS
+Pathways in cancer	CAMK2A	HRAS
+Pathways in cancer	BCL2L1	BAX
+Pathways in cancer	BCL2L1	BAK1
+Pathways in cancer	BAK1	CYCS
+Pathways in cancer	ALK	PLCG1
+Pathways in cancer	F2	EDNRA
+Pathways in cancer	KNG1	EDNRA
+Pathways in cancer	EDN1	EDNRA
+Pathways in cancer	AGT	EDNRA
+Pathways in cancer	F2	LPAR6
+Pathways in cancer	F2	CXCR4
+Pathways in cancer	AGT	LPAR6
+Pathways in cancer	AGT	CXCR4
+Pathways in cancer	C00681	LPAR6
+Pathways in cancer	C00681	CXCR4
+Pathways in cancer	CXCL12	CXCR4
+Pathways in cancer	C00584	PTGER1
+Viral carcinogenesis	MDM2	TP53
+Viral carcinogenesis	CREBBP	TP53
+Viral carcinogenesis	PSMC1	RB1
+Prostate cancer	PIK3CA	PDPK1
+Prostate cancer	PIK3CA	PDPK1
+Prostate cancer	PIK3CA	AKT3
+Prostate cancer	PIK3CA	AKT3
+Prostate cancer	EGF	EGFR
+Prostate cancer	EGFR	PIK3CA
+Prostate cancer	EGFR	GRB2
+Prostate cancer	GRB2	SOS1
+Prostate cancer	SOS1	HRAS
+Prostate cancer	HRAS	ARAF
+Prostate cancer	ARAF	MAP2K1
+Prostate cancer	ARAF	MAP2K1
+Prostate cancer	MAP2K1	MAPK1
+Prostate cancer	MAP2K1	MAPK1
+Prostate cancer	PDPK1	AKT3
+Prostate cancer	PDPK1	AKT3
+Prostate cancer	AKT3	MDM2
+Prostate cancer	AKT3	MDM2
+Prostate cancer	AKT3	CHUK
+Prostate cancer	AKT3	CHUK
+Prostate cancer	AKT3	MTOR
+Prostate cancer	AKT3	MTOR
+Prostate cancer	AKT3	CASP9
+Prostate cancer	AKT3	CASP9
+Prostate cancer	AKT3	BAD
+Prostate cancer	AKT3	BAD
+Prostate cancer	AKT3	FOXO1
+Prostate cancer	AKT3	FOXO1
+Prostate cancer	AKT3	CDKN1A
+Prostate cancer	AKT3	CDKN1A
+Prostate cancer	AKT3	CDKN1B
+Prostate cancer	AKT3	CDKN1B
+Prostate cancer	AKT3	GSK3B
+Prostate cancer	AKT3	GSK3B
+Prostate cancer	GSK3B	CREB3
+Prostate cancer	GSK3B	CREB3
+Prostate cancer	GSK3B	CTNNB1
+Prostate cancer	GSK3B	CTNNB1
+Prostate cancer	CHUK	NFKBIA
+Prostate cancer	CHUK	NFKBIA
+Prostate cancer	E2F1	RB1
+Prostate cancer	MDM2	TP53
+Prostate cancer	CREB3	CREBBP
+Prostate cancer	CTNNB1	CREBBP
+Prostate cancer	NFKB1	NFKBIA
+Prostate cancer	CTNNB1	LEF1
+Prostate cancer	LEF1	CCND1
+Prostate cancer	NFKB1	BCL2
+Prostate cancer	GSTP1	C16038
+Prostate cancer	CREBBP	TP53
+Prostate cancer	NKX3-1	AKT3
+Prostate cancer	PTEN	C05981
+Small cell lung cancer	PIK3CA	AKT3
+Small cell lung cancer	CKS1B	SKP2
+Small cell lung cancer	PTK2	PIK3CA
+Small cell lung cancer	AKT3	CHUK
+Small cell lung cancer	AKT3	CHUK
+Small cell lung cancer	CHUK	NFKBIA
+Small cell lung cancer	CHUK	NFKBIA
+Small cell lung cancer	ZBTB17	CDKN2B
+Small cell lung cancer	NFKB1	CCND1
+Small cell lung cancer	NFKB1	BIRC8
+Small cell lung cancer	NFKB1	BCL2L1
+Small cell lung cancer	NFKB1	TRAF1
+Small cell lung cancer	NFKB1	PTGS2
+Small cell lung cancer	NFKB1	NOS2
+Small cell lung cancer	SKP2	CDKN1B
+Small cell lung cancer	E2F1	RB1
+Small cell lung cancer	NFKBIA	NFKB1
+Small cell lung cancer	CYCS	CASP9
+Small cell lung cancer	APAF1	CASP9
+Small cell lung cancer	PTEN	C05981
+Small cell lung cancer	BCL2	BAX
+Small cell lung cancer	CASP9	CASP3
+Small cell lung cancer	TP53	CDKN1A
+Small cell lung cancer	TP53	GADD45G
+Small cell lung cancer	TP53	BAX
+Small cell lung cancer	TP53	BAK1
+Small cell lung cancer	TP53	DDB2
+Small cell lung cancer	TP53	POLK
+Gastric cancer	SHC2	GRB2
+Gastric cancer	GRB2	SOS1
+Gastric cancer	SOS1	HRAS
+Gastric cancer	HRAS	ARAF
+Gastric cancer	ARAF	MAP2K1
+Gastric cancer	ARAF	MAP2K1
+Gastric cancer	MAP2K1	MAPK1
+Gastric cancer	MAP2K1	MAPK1
+Gastric cancer	PIK3CA	C05981
+Gastric cancer	C05981	AKT3
+Gastric cancer	AKT3	MTOR
+Gastric cancer	AKT3	MTOR
+Gastric cancer	MTOR	RPS6KB1
+Gastric cancer	TP53	CDKN1A
+Gastric cancer	TP53	GADD45G
+Gastric cancer	TP53	BAX
+Gastric cancer	TP53	BAK1
+Gastric cancer	TP53	DDB2
+Gastric cancer	TP53	POLK
+Gastric cancer	SMAD2	SMAD4
+Gastric cancer	FZD10	DVL1
+Gastric cancer	DVL1	FRAT1...
+Gastric cancer	DVL1	GSK3B
+Gastric cancer	CTNNB1	LEF1
+Gastric cancer	LEF1	MYC
+Gastric cancer	LEF1	CCND1
+Gastric cancer	HGF	MET
+Gastric cancer	MET	GRB2
+Gastric cancer	GRB2	SOS1
+Gastric cancer	SOS1	HRAS
+Gastric cancer	HRAS	ARAF
+Gastric cancer	ARAF	MAP2K1
+Gastric cancer	ARAF	MAP2K1
+Gastric cancer	MAP2K1	MAPK1
+Gastric cancer	MAP2K1	MAPK1
+Gastric cancer	MET	GAB1
+Gastric cancer	GAB1	PIK3CA
+Gastric cancer	PIK3CA	C05981
+Gastric cancer	C05981	AKT3
+Gastric cancer	AKT3	MTOR
+Gastric cancer	AKT3	MTOR
+Gastric cancer	AKT3	TP53
+Gastric cancer	AKT3	TP53
+Gastric cancer	TP53	BCL2
+Gastric cancer	FGF1	FGFR2
+Gastric cancer	FGFR2	GRB2
+Gastric cancer	FGFR2	GAB1
+Gastric cancer	AKT3	GSK3B
+Gastric cancer	CDH1	CTNNA1
+Gastric cancer	CDH1	JUP
+Gastric cancer	CDH1	CTNNB1
+Gastric cancer	CDH1	CTNNB1
+Gastric cancer	CTNNB1	LEF1
+Gastric cancer	LEF1	MYC
+Gastric cancer	LEF1	CCND1
+Gastric cancer	TP53	CDKN1A
+Gastric cancer	TP53	CDKN1A
+Gastric cancer	TP53	GADD45G
+Gastric cancer	TP53	GADD45G
+Gastric cancer	TP53	BAX
+Gastric cancer	TP53	BAX
+Gastric cancer	TP53	BAK1
+Gastric cancer	TP53	BAK1
+Gastric cancer	TP53	DDB2
+Gastric cancer	TP53	DDB2
+Gastric cancer	TP53	POLK
+Gastric cancer	TP53	POLK
+Gastric cancer	CDX2	MUC2
+Gastric cancer	CDX2	CDH17
+Gastric cancer	CDX2	REG4
+Gastric cancer	CDX2	ABCB1
+Gastric cancer	CDX2	SHH
+Gastric cancer	RB1	E2F1
+Gastric cancer	SMAD2	CDKN2B
+Gastric cancer	SMAD2	CDKN2B
+Gastric cancer	SMAD2	CDKN1A
+Gastric cancer	SMAD2	CDKN1A
